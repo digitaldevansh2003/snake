@@ -33,6 +33,7 @@ Run unit tests:
 ```
 python -m pytest
 ```
+how to run it ? i dont get it .
 
 ## License
 
